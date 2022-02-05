@@ -1,7 +1,9 @@
 # Python package template
 package template for quick start
 
-[![Build](https://github.com/jerinka/PackageSnippet1/actions/workflows/python-publish.yml/badge.svg)](https://github.com/jerinka/PackageSnippet1/actions/workflows/python-publish.yml)
+[![Build](https://github.com/jerinka/PackageSnippet1/actions/workflows/main.yml/badge.svg)](https://github.com/jerinka/PackageSnippet1/actions/workflows/main.yml)
+
+[![pypi](https://github.com/jerinka/PackageSnippet1/actions/workflows/python-publish.yml/badge.svg)](https://github.com/jerinka/PackageSnippet1/actions/workflows/python-publish.yml)
 
 # Install from Pypi
 ```pip install PackageSnippet1```
