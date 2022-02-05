@@ -9,6 +9,7 @@ package template for quick start
 ```pip3 install -e PackageSnippet1```
 
 # build
+```pip install wheel```\
 ```python setup.py sdist bdist_wheel```
 
 # testpypi
