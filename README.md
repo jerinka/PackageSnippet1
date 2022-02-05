@@ -1,5 +1,5 @@
 # Python package template
-package template for quick start
+A package template for quickly creating a new package with test and publishing to pypi as workflow
 
 [![Build](https://github.com/jerinka/PackageSnippet1/actions/workflows/main.yml/badge.svg)](https://github.com/jerinka/PackageSnippet1/actions/workflows/main.yml)
 
