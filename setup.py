@@ -10,7 +10,7 @@ setuptools.setup(
     version="0.0.1",
     author="Jerin KA",
     author_email="me@example.com",
-    description="Ign common utils package",
+    description="Common utils package",
     url = 'https://github.com/user/reponame',
     download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
     keywords = ['SOME', 'MEANINGFULL', 'KEYWORDS'],
