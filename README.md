@@ -3,7 +3,6 @@ A package template for quickly creating a new package with test and publishing t
 
 [![Build](https://github.com/jerinka/PackageSnippet1/actions/workflows/main.yml/badge.svg)](https://github.com/jerinka/PackageSnippet1/actions/workflows/main.yml)
 
-[![pypi](https://github.com/jerinka/PackageSnippet1/actions/workflows/python-publish.yml/badge.svg)](https://github.com/jerinka/PackageSnippet1/actions/workflows/python-publish.yml)
 
 # Install from Pypi
 ```pip install PackageSnippet1```
