@@ -1,5 +1,4 @@
 # https://medium.com/@udiyosovzon/things-you-should-know-when-developing-python-package-5fefc1ea3606
-
 import setuptools
 with open('./requirements.txt') as f:
     required = f.read().splitlines()
