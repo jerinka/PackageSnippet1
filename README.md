@@ -27,7 +27,6 @@ package template for quick start
 ```pk1.subpackage1.moduleA.fun_a()```
 
 # Test
-```cd PackageSnippet1/test```\
 ```pytest test/test_PackageSnippet1.py -s```
 
 # Reference

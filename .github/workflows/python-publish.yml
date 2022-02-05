@@ -9,22 +9,6 @@
 name: Upload Python Package
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: install reqs
-        run: pip3 install .
-      - name: Run tests
-        run: python3 test/test_PackageSnippet1.py
-
-on:
   release:
   types: [published]
 
