@@ -1,7 +1,11 @@
 # Python package template
 package template for quick start
 
-# Install
+# Install from Pypi
+```pip install PackageSnippet1```
+
+# Local install
+```git clone https://github.com/jerinka/PackageSnippet1```\
 ```pip3 install -e PackageSnippet1```
 
 # build
@@ -13,7 +17,7 @@ package template for quick start
 
 # pypi
 ```twine upload dist/*```\
-```pip install PackageSnippet1```
+```pip install -U PackageSnippet1```
 
 # Quick usage
 ```import PackageSnippet1 as pk1```\
