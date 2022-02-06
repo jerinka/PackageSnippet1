@@ -14,4 +14,4 @@ jobs:
       - name: install reqs
         run: pip3 install .
       - name: Run tests
-        run: pytest test/test_PackageSnippet1.py -s
+        run: coverage run --source=PackageSnippet1/ -m pytest -v test/ && coverage report -m

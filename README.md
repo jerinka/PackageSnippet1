@@ -16,6 +16,9 @@ A package template for quickly creating a new package with test and publishing t
 ```pip install wheel```\
 ```python setup.py sdist bdist_wheel```
 
+# Coverage test
+```coverage run --source=PackageSnippet1/ -m pytest -v test/ && coverage report -m```
+
 # testpypi
 ```twine upload --repository testpypi dist/* ```\
 ```pip install -i https://test.pypi.org/simple/ PackageSnippet1 ```
